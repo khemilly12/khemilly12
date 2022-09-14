@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @khemilly12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola meu nome e Khemilly Steffany S Martins
+- 👀 estou aprendendo a programar jogos no Scrath e JavaScript
+- 🌱 Tenho vontade e curiosidade em aprender a editar fotos e videos 
+- 💞 para contato: khemilly.martins@escola.pr.gov.br
+- 📫 
 
 <!---
 khemilly12/khemilly12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
